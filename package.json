@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/viqbgrg/photoandvideo.git"
+    "url": "git+https://github.com/listenblue/PhotoAndVideo.git"
   },
   "keywords": [
     "cordova",
@@ -24,10 +24,10 @@
     "cordova-ios",
     "cordova-android"
   ],
-  "author": "viqbgrg",
+  "author": "listen",
   "license": "\n\t\tApache 2.0\n\t",
   "bugs": {
-    "url": "https://github.com/viqbgrg/photoandvideo/issues"
+    "url": "https://github.com/listenblue/PhotoAndVideo/issues"
   },
-  "homepage": "https://github.com/viqbgrg/photoandvideo#readme"
+  "homepage": "https://github.com/listenblue/photoandvideo#readme"
 }
